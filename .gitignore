@@ -1,0 +1,7 @@
+.env
+node_modules/
+.browser-*/
+.DS_Store
+Thumbs.db
+docs/*.tmp.png
+docs/mobile-crop.png

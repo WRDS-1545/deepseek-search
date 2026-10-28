@@ -1,0 +1,15 @@
+{
+  "name": "deepseek-search-playground",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "DeepSeek 网页搜索 API 的本地演示页面：结构化结果、权威度、正文抓取与高级检索语法",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "stub": "node test/stub-upstream.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
